@@ -1,0 +1,18 @@
+.header-content {
+  min-height: 75vh;
+  background: linear-gradient(rgba(135, 103, 177, 0.3),
+    rgba(61, 50, 50, 0.5)), url(../../Assets/libraryBuilding.jpg) center/cover no-repeat;
+    
+}
+
+.header-title{
+  font-size: 4.2rem;
+}
+
+.header-text{
+  margin-top: -1.8rem;
+  margin-bottom: 2.8rem;
+  opacity: 0.8;
+  max-width: 770px;
+}
+
